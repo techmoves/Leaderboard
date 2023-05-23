@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+.recente-scores {
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  justify-items: center;
+  justify-content: space-around;
+}
+
+.top-2 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.btn {
+  height: 24px;
+}
+
+ul li {
+  list-style: none;
+  padding-top: 11px;
+}
