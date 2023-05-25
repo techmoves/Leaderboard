@@ -34,7 +34,7 @@
 
 # 📖 Leader board App<a name="about-project"></a>
 
-> it a basic Leader board app,and learning more about javascript using webpack
+> I developed a leaderboard using HTML, CSS, JavaScript, and APIs. This project aims to create a simple and intuitive interface that allows users to track their scores and compare their rankings with others.👌
 
 
 ## 🛠 Built With <a name="built-with"></a>
