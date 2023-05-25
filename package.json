@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "start": "webpack --config webpack.config.js --watch",
-    "sta": "webpack serve --open"
+    "watch": "webpack --config webpack.config.js --watch",
+    "start": "webpack serve --open"
   },
   "keywords": [],
   "author": "",
