@@ -4,8 +4,8 @@ const add = async (user, Score) => {
   const ID = '4iWhaPUyox6pHAr1pbvY';
   const url = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${ID}/scores/`;
   const newScore = {
-    user:user,
-    Score:Score
+    user,
+    Score,
   };
 
   const postScore = async () => {
