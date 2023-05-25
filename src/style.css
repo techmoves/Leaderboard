@@ -33,3 +33,26 @@ ul li {
   list-style: none;
   padding-top: 11px;
 }
+
+table {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #b8f3a2;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+  margin-top: 10px;
+}
+
+.submit {
+  margin: 15px 0 0 0;
+}
+
+input {
+  margin: 15px 0 0 0;
+}

@@ -22,5 +22,5 @@ const add = async (user, Score) => {
   const res = await postScore().then((data) => data);
   return res;
 };
-
+add('Name', 2);
 export default add;
