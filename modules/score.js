@@ -10,7 +10,8 @@ const scoreData = async () => {
     });
     return res.json();
   };
-  const res = await retrieveScores().then((data) => data.result);
+  const res = await retrieveScores();
+  console.log(res)
   return res;
 };
 
