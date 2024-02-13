@@ -1,3 +1,10 @@
+body {
+  background-color: aquamarine;
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 h1 {
   text-align: center;
 }
@@ -51,6 +58,8 @@ tr:nth-child(even) {
 
 .submit {
   margin: 15px 0 0 0;
+  background-color: brown;
+  color: white;
 }
 
 input {
